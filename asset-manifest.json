@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Viewer/static/css/main.db143a6a.css",
-    "main.js": "/Viewer/static/js/main.b17b30e3.js",
-    "static/js/453.1b384830.chunk.js": "/Viewer/static/js/453.1b384830.chunk.js",
-    "index.html": "/Viewer/index.html",
-    "main.db143a6a.css.map": "/Viewer/static/css/main.db143a6a.css.map",
-    "main.b17b30e3.js.map": "/Viewer/static/js/main.b17b30e3.js.map",
-    "453.1b384830.chunk.js.map": "/Viewer/static/js/453.1b384830.chunk.js.map"
+    "main.css": "https://viewer.urbano.io/static/css/main.db143a6a.css",
+    "main.js": "https://viewer.urbano.io/static/js/main.e17f1b60.js",
+    "static/js/453.1b384830.chunk.js": "https://viewer.urbano.io/static/js/453.1b384830.chunk.js",
+    "index.html": "https://viewer.urbano.io/index.html",
+    "main.db143a6a.css.map": "https://viewer.urbano.io/static/css/main.db143a6a.css.map",
+    "main.e17f1b60.js.map": "https://viewer.urbano.io/static/js/main.e17f1b60.js.map",
+    "453.1b384830.chunk.js.map": "https://viewer.urbano.io/static/js/453.1b384830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db143a6a.css",
-    "static/js/main.b17b30e3.js"
+    "static/js/main.e17f1b60.js"
   ]
 }
